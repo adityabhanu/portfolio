@@ -4,4 +4,32 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
 }
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.perspective {
+  perspective: 1000px;
+}
+
+.transform-style {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.group-hover\:rotate-y-180:hover {
+  transform: rotateY(180deg);
+}
+
