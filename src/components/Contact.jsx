@@ -22,7 +22,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/adityabhanu08/"
+            href="www.linkedin.com/in/aditya-bhanu"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-blue-500 rounded-xl hover:scale-105 transition"
