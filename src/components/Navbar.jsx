@@ -18,7 +18,7 @@ export default function Navbar({ dark, setDark }) {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://www.linkedin.com/in/adityabhanu08/"
+              href="www.linkedin.com/in/aditya-bhanu"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition text-white"
